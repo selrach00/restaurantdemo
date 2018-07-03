@@ -1,0 +1,11 @@
+C:\dev\restaurantdemo\restaurantdemo\bin\Debug\netcoreapp2.0\restaurantdemo.deps.json
+C:\dev\restaurantdemo\restaurantdemo\bin\Debug\netcoreapp2.0\restaurantdemo.runtimeconfig.json
+C:\dev\restaurantdemo\restaurantdemo\bin\Debug\netcoreapp2.0\restaurantdemo.runtimeconfig.dev.json
+C:\dev\restaurantdemo\restaurantdemo\bin\Debug\netcoreapp2.0\restaurantdemo.dll
+C:\dev\restaurantdemo\restaurantdemo\bin\Debug\netcoreapp2.0\restaurantdemo.pdb
+C:\dev\restaurantdemo\restaurantdemo\obj\Debug\netcoreapp2.0\restaurantdemo.csprojResolveAssemblyReference.cache
+C:\dev\restaurantdemo\restaurantdemo\obj\Debug\netcoreapp2.0\restaurantdemo.csproj.CoreCompileInputs.cache
+C:\dev\restaurantdemo\restaurantdemo\obj\Debug\netcoreapp2.0\restaurantdemo.AssemblyInfoInputs.cache
+C:\dev\restaurantdemo\restaurantdemo\obj\Debug\netcoreapp2.0\restaurantdemo.AssemblyInfo.cs
+C:\dev\restaurantdemo\restaurantdemo\obj\Debug\netcoreapp2.0\restaurantdemo.dll
+C:\dev\restaurantdemo\restaurantdemo\obj\Debug\netcoreapp2.0\restaurantdemo.pdb
